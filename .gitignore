@@ -1,3 +1,4 @@
+.env
 nyc311_by_borough/*
 nyc311_complaints.db
 nyc311_results.db
